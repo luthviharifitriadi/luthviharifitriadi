@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![luthviharifitriadi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luthviharifitriadi&theme=react&show_icons=true&hide_border=true&layout=compact)
+![luthviharifitriadi's Top Languages](https://your-vercel-app.vercel.app/api?username=luthviharifitriadi&count_private=true
+)
+
+https://your-vercel-app.vercel.app/api?username=luthviharifitriadi&count_private=true
+
 
 ![luthviharifitriadi's Stats](https://github-readme-stats.vercel.app/api?username=luthviharifitriadi&theme=react&show_icons=true&hide_border=true&count_private=true)
