@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luthviharifitriadi&theme=react-dark)
+![snake gif](https://github.com/luthviharifitriadi/luthviharifitriadi/blob/output/github-contribution-grid-snake.svg)
+
